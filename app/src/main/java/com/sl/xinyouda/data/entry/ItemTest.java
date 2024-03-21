@@ -1,11 +1,6 @@
-package cn.wx.listviewedit;
-
-/**
- * @author dwj  2017/8/28 14:22
- */
+package com.sl.xinyouda.data.entry;
 
 public class ItemTest {
-
     private String text;
 
     public String getText() {

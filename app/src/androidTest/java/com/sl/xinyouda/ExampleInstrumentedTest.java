@@ -1,4 +1,4 @@
-package cn.wx.listviewedit;
+package com.sl.xinyouda;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("cn.wx.listviewedit", appContext.getPackageName());
+        assertEquals("com.sl.xinyouda", appContext.getPackageName());
     }
 }

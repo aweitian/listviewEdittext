@@ -1,4 +1,4 @@
-package cn.wx.listviewedit;
+package com.sl.xinyouda;
 
 import org.junit.Test;
 
