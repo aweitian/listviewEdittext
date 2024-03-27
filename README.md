@@ -1,0 +1,1 @@
+新分支databind 使用的数据绑定，获取EDIT TEXT中的text更方便
